@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **NacirChahine/nacirchahine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Nacir! 👋
+
+## About Me
+I'm a full stack develper passionate about web development. I enjoy working with PHP, Python, HTML, CSS, and JS.
+for more please check [my portfolio](https://nacirchahine.github.io/myPortfolio/)
+
+## Contact Me
+- Email: chahinnacir@gmail.com
+- LinkedIn: [nacirchahine](https://linkedin.com/in/nacirchahine)
