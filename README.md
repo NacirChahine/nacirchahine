@@ -23,3 +23,5 @@ for more please check [my portfolio](https://nacirchahine.github.io/myPortfolio/
 ## Contact Me
 - Email: chahinnacir@gmail.com
 - LinkedIn: [nacirchahine](https://linkedin.com/in/nacirchahine)
+
+[![](https://visitcount.itsvg.in/api?id=nacir&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
